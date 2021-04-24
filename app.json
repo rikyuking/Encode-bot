@@ -1,7 +1,7 @@
 {
   "name": "Video Encoder Bot",
   "description": "A Telegram bot to convert videos into x265/x264 format via ffmpeg.",
-  "repository": "",
+  "repository": "https://github.com/SamirJanaOfficial/Encode-bot",
   "logo": "https://telegra.ph/file/320e7b96b453157bcafa3.png",
   "keywords": ["Telegram", "h265-hevc", "video-encoder"],
   "env": {
