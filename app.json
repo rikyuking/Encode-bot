@@ -14,11 +14,6 @@
     "API_HASH": {
       "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
     },
-    "DOWNLOAD_DIR": {
-      "description": "The path to the local folder where the downloads should be downloaded to",
-      "value": "",
-      "required": false
-    },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
       "value": "999197022 939425014"
