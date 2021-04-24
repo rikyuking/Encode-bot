@@ -16,7 +16,7 @@
     },
     "DOWNLOAD_DIR": {
       "description": "The path to the local folder where the downloads should be downloaded to",
-      "value": "/home/username/mirror-bot/downloads",
+      "value": "",
       "required": false
     },
     "SUDO_USERS": {
