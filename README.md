@@ -30,8 +30,11 @@ python3 main.py
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Credits
-*Thanks to [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)*
+- [Samir Jana](https://github.com/SamirJanaOfficial) for nothing just adding some features & a lit bit modifications.
+- [Adnan Ahmad](https://github.com/viperadnan-git) for base repo
+- Thanks to [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)
 
 ### Copyright & License
+- Copyright &copy; 2021 &mdash; [Samir Jana](https://github.com/SamirJanaOfficial)
 - Copyright &copy; 2021 &mdash; [Adnan Ahmad](https://github.com/viperadnan-git)
 - Licensed under the terms of the [GNU General Public License Version 3 &dash; 29 June 2007](./LICENSE)
